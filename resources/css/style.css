@@ -16,10 +16,12 @@ html{
 .logo{
   height: 50px;
   margin-left: 10px;
+  display: flex;
 }
 
 .links{
   text-decoration: underline;
   font-weight: bold;
+  display: flex;
   align-self: flex-end;
 }
