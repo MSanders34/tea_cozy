@@ -21,4 +21,5 @@ html{
 .links{
   text-decoration: underline;
   font-weight: bold;
+  align-self: flex-end;
 }
