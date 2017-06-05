@@ -30,12 +30,9 @@ header img{
   margin-left: 10px;
 }
 
-nav{
-  display: block;
-}
-
-ul{
-  display: block;
+header a{
+  color: seashell;
+  text-decoration: underline;
 }
 
 header li{
