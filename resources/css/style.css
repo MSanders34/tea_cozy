@@ -1,5 +1,9 @@
 html{
-  font-family: Helvetica;
+  display: block;
+}
+
+body{
+  font-family: Helvetica, sans-serif;
   font-size: 22px;
   color: seashell;
   background-color: black;
@@ -7,23 +11,23 @@ html{
   text-align: center;
 }
 
-.head{
+header{
+  position: fixed;
+  border-bottom: 1px solid seashell;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
   height: 69px;
   width: 100%;
-  border-bottom: 1px solid seashell;
-  position: fixed;
+  background: black;
+  z-index: 10;
+  top: 0;
 }
 
-.logo{
-  height: 50px;
-  margin-left: 10px;
-  display: flex;
+header img{
+  
 }
 
-.links{
-  color: seashell;
-  text-decoration: underline;
-  display: flex;
-  flex-direction: row;
-  align-items: flex-end;
+nav{
+
 }
