@@ -25,9 +25,19 @@ header{
 }
 
 header img{
-  
+  height: 50px;
+  margin-left: 10px;
 }
 
 nav{
+  display: block;
+}
 
+ul{
+  display: block;
+}
+
+header li{
+  display: inline-block;
+  padding: 0 10px;
 }
