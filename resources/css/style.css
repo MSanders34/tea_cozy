@@ -49,7 +49,7 @@ section#mission{
   width: 1200px;
   display: flex;
   align-items: center;
-  background-image: url(./resources/images/img-mission-background.jpg);
+  background-image: url(../resources/images/img-mission-background.jpg);
   margin: 0 auto;
 }
 
