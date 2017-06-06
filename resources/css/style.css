@@ -44,6 +44,11 @@ main{
   padding-top: 70px;
 }
 
+h4{
+  display: block;
+  font-weight: bold;
+}
+
 section#mission{
   height: 700px;
   width: 1200px;
