@@ -87,6 +87,7 @@ section#month{
 
 .item img{
   display: block;
+  height: 200px;
   width: 300px;
   padding-top: 10px;
 }
