@@ -40,18 +40,25 @@ header li{
   padding: 0 10px;
 }
 
-section{
-  font-family: Helvetica, sans-serif;
-  font-size: 22px;
-  color: seashell;
-  background-color: black;
-  opacity: inherit;
+main{
+  padding-top: 70px;
 }
 
-#mission{
-  background-image: url(./resources/images/img-mission-background.jpg);
+section#mission{
   height: 700px;
   width: 1200px;
   display: flex;
   align-items: center;
+  background-image: image(./resources/images/img-mission-background.jpg);
+  margin: 0 auto;
+}
+
+#mission hgroup{
+  background-color: black;
+  width: 100%;
+}
+
+#mission h2, #mission h4{
+  margin: 0;
+  padding: 10px;
 }
