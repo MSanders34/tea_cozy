@@ -44,11 +44,6 @@ main{
   padding-top: 70px;
 }
 
-h4{
-  display: block;
-  font-weight: bold;
-}
-
 section#mission{
   height: 700px;
   width: 1200px;
@@ -56,6 +51,11 @@ section#mission{
   background-image: url(../images/img-mission-background.jpg);
   display: flex;
   align-items: center;
+}
+
+h4{
+  display: block;
+  font-weight: bold;
 }
 
 #mission hgroup{
