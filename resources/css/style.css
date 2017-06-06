@@ -62,3 +62,7 @@ section#mission{
   margin: 0;
   padding: 10px;
 }
+
+section#month{
+  width: 1000px;
+}
