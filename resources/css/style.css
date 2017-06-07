@@ -112,17 +112,21 @@ section#locations{
 }
 
 .location{
-
+  width: 300px;
+  margin: 0 20px;
+  background-color: black;
+  opacity: 1;
 }
 
 #locations h2{
-
+  margin: 0 0 15px 0;
 }
 
 .location p{
-
+  display: block;
 }
 
 .location h3{
-
+  display: block;
+  font-weight: bold;
 }
