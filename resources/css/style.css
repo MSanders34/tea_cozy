@@ -95,3 +95,33 @@ section#store{
   margin: 0;
   padding: 10px;
 }
+
+section#locations{
+  display: flex;
+  flex-direction: column;
+  height: 500px;
+  width: 100%;
+  margin: 0 auto;
+  padding-top: 70px;
+  background-image: url(../resources/images/img-locations-background.jpg);
+}
+
+.flex-location{
+
+}
+
+.location{
+
+}
+
+#locations h2{
+
+}
+
+.location p{
+
+}
+
+.location h3{
+
+}
