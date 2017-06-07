@@ -130,3 +130,19 @@ section#locations{
   display: block;
   font-weight: bold;
 }
+
+section#contact{
+  height: 200px;
+  display: block;
+  margin-left: 20px;
+}
+
+#contact h2{
+  margin: 0;
+  padding: 10px;
+}
+
+#contact h5{
+  display: block;
+  font-weight: bold;
+}
