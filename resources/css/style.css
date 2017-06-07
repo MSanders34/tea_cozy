@@ -146,3 +146,13 @@ section#contact{
   display: block;
   font-weight: bold;
 }
+
+footer{
+  padding-left: 20px;
+  text-align: left;
+}
+
+footer h5{
+  display: block;
+  font-weight: bold;
+}
